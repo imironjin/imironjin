@@ -1,6 +1,6 @@
 ### Hi there 👋
-##My name is "ChulJin Lim"
-##I'm studying 
+## My name is "ChulJin Lim"
+## I'm studying 
 <span>
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
 <img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=black">
